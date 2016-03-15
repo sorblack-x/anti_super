@@ -1,8 +1,8 @@
-# [TeleSeed](https://telegram.me/TeleSeed)
+# [RSMBOT](https://Telegram.me/rsm_team_bot)
 
-[![https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![https://gitter.im/sorblack-x/anti_super](https://badges.gitter.im/sorblack-x/anti_super.svg)](https://gitter.im/sorblack-x/anti_super?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
+**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/sorblack-x/anti_super/blob/master/LICENSE)**.
 # Features
 
 * **A powerful antispam system with custom sensitivity for each group**
@@ -233,7 +233,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/SEEDTEAM/TeleSeed.git -b supergroups
+git clone https://github.com/sorblack-x/anti_super.git -b supergroups
 cd TeleSeed
 chmod +x launch.sh
 ./launch.sh install
@@ -255,9 +255,12 @@ After you run the bot for first time, send it `!id`. Get your ID and stop the bo
 Open ./data/config.lua and add your ID to the "sudo_users" section in the following format:
 ```
   sudo_users = {
-    110626080,
-    103649648,
-    111020322,
+    134843111,
+    177500661,
+    150575718,
+    93365812,
+    165951290,
+    198899494,
     0,
     YourID
   }
@@ -283,35 +286,35 @@ Create a realm using the `!createrealm` command.
 Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/01/teleseed-tutorial/) for further assistance with setup and installation.
 
 **Do not contact us** in private for support.
-Join our bot development group by sending `/join 1047524697` to [@TeleSeed](https://telegram.me/TeleSeed)
+Join our bot development group by sending `/join 135727521` to [@rsm_team_bot](https://telegram.me/rsm_team_bot)
 
 # Special thanks to
-[@seyedan25](https://telegram.me/seyedan25)
+[@blackwolf_admin](https://telegram.me/blackwolf_admin)
 
-For managing [@teleseed](https://telegram.me/TeleSeed) on Telegram.
+For managing [@rsm_team_bot](https://telegram.me/rsm_team_bot) on Telegram.
 
-[@Vamptacus](https://telegram.me/Vamptacus)
+[@BeatBot_IDeactive](https://telegram.me/BeatBot_IDeactive)
 
 For graphic designs.
 
-[topkecleon](https://github.com/topkecleon)
+[@mohammad20162015](https://github.com/mohammad20162015)
 
-[Juan Potato](https://github.com/JuanPotato)
+[Arsalan sahal](https://github.com/Arsalan_sahel)
 
 * * *
 
 # Our team!
 
-[Alphonse](https://github.com/hmon) ([Telegram](https://telegram.me/iwals))
+[sorblack]([Telegram](https://telegram.me/sorblack)
 
-[I M /-\ N](https://github.com/imandaneshi) ([Telegram](https://telegram.me/imandaneshi))
+[sorblack_2]([Telegram](https://telegram.me/sorblack_2)
 
-[Siyanew](https://github.com/Siyanew) ([Telegram](https://telegram.me/Siyanew))
+[mohammad20162015]([Telegram](https://telegram.me/mohammad20162015)
 
-[Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/POTUS))
+[HaNgHeR_YaGhI]([Telegram](https://telegram.me/HaNgHeR_YaGhI)
 
 ###Our Telegram channels:
 
-English: [@TeleSeedCH](https://telegram.me/teleseedch)
+English and persion: [@rsm_team](https://telegram.me/rsm_team)
 
-Persian: [@IranSeed](https://telegram.me/iranseed)
+sudo: [@sorblack](https://telegram.me/sorblack)
