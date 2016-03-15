@@ -232,29 +232,29 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {134843111,177500661,150575718,93365812,165951290,198899494},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
+    about_text = [[RSMBOT v9
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/SEEDTEAM/TeleSeed
+https://www.instagram.com/p/BB25RCus5ab/
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
+@sorblack [Founder and sudo]
+@sorblack_2 [Developer]
+@mohammad20162015 [Developer]
+@HaNgHeR_YaGhI [Devloper]
+@sorbalck [Devloper]
+@yellowhat_IDeactive {Admin}
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+#amirhossien
+Arsalan sahal
+MOHAMAD
+sorbalck
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+@rsm_team [English and persion]
 ]],
     help_text_realm = [[
 Realm Commands:
