@@ -234,7 +234,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 # Let's install the bot.
 cd $HOME
 git clone https://github.com/sorblack-x/anti_super.git -b supergroups
-cd TeleSeed
+cd anti_super
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
